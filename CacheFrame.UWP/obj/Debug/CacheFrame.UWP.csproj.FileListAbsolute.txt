@@ -1,0 +1,16 @@
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\bin\Debug\CacheFrame.UWP.dll
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\bin\Debug\CacheFrame.UWP.pdb
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\bin\Debug\CacheFrame.UWP.pri
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\CacheFrame.UWP.dll
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\CacheFrame.UWP.pdb
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\priconfig.xml
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\priconfig.xml.intermediate
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\layout.resfiles
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\layout.resfiles.intermediate
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\resources.resfiles
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\resources.resfiles.intermediate
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\pri.resfiles
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\pri.resfiles.intermediate
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\qualifiers.txt
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\qualifiers.txt.intermediate
+c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
