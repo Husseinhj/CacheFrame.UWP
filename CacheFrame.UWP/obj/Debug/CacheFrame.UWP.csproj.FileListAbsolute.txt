@@ -14,3 +14,4 @@ c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFra
 c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\qualifiers.txt
 c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\qualifiers.txt.intermediate
 c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HusseinHJ\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\CacheFrame.UWP.csprojResolveAssemblyReference.cache

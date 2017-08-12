@@ -178,7 +178,7 @@ namespace CacheFrame.UWP
 
                     #region Add pages to stack without duplicates
 
-                    lastPages = lastPages.Distinct().ToList();
+                    lastPages = lastPages.ToLookup(entry => entry.SourcePageType).Select(g => g.First()).ToList();
 
                     foreach (var pageStackEntry in lastPages)
                     {

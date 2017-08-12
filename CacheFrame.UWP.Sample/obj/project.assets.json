@@ -2168,6 +2168,13 @@
             "rid": "aot"
           }
         }
+      },
+      "CacheFrame.UWP/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        }
       }
     },
     "UAP,Version=v10.0.10240/win10-arm": {
@@ -4419,6 +4426,13 @@
         },
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "CacheFrame.UWP/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
         }
       }
     },
@@ -6711,6 +6725,13 @@
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "CacheFrame.UWP/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        }
       }
     },
     "UAP,Version=v10.0.10240/win10-x64": {
@@ -8971,6 +8992,13 @@
         },
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "CacheFrame.UWP/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
         }
       }
     },
@@ -11272,6 +11300,13 @@
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "CacheFrame.UWP/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        }
       }
     },
     "UAP,Version=v10.0.10240/win10-x86": {
@@ -13532,6 +13567,13 @@
         },
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "CacheFrame.UWP/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
         }
       }
     },
@@ -15832,6 +15874,13 @@
         },
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "CacheFrame.UWP/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
         }
       }
     }
@@ -22002,10 +22051,16 @@
         "system.xml.xmlserializer.4.0.11.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "CacheFrame.UWP/1.0.0": {
+      "type": "project",
+      "path": "../CacheFrame.UWP/CacheFrame.UWP.csproj",
+      "msbuildProject": "../CacheFrame.UWP/CacheFrame.UWP.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.10240": [
+      "CacheFrame.UWP >= 1.0.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.2.3"
     ]
   },
@@ -22015,28 +22070,39 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HusseinHJ\\Documents\\Visual Studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\CacheFrame.UWP.Sample.csproj",
+      "projectUniqueName": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\CacheFrame.UWP.Sample.csproj",
       "projectName": "CacheFrame.UWP.Sample",
-      "projectPath": "C:\\Users\\HusseinHJ\\Documents\\Visual Studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\CacheFrame.UWP.Sample.csproj",
-      "outputPath": "C:\\Users\\HusseinHJ\\Documents\\Visual Studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\obj\\",
+      "projectPath": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\CacheFrame.UWP.Sample.csproj",
+      "outputPath": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "uap10.0.10240"
       ],
       "frameworks": {
         "uap10.0.10240": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP\\CacheFrame.UWP.csproj": {
+              "projectPath": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP\\CacheFrame.UWP.csproj"
+            }
+          }
         }
       }
     },
     "dependencies": {
       "Microsoft.NETCore.UniversalWindowsPlatform": {
         "target": "Package",
-        "version": "[5.2.3, )"
+        "version": "5.2.3"
       }
     },
     "frameworks": {
-      "uap10.0.10240": {}
+      "uap10.0.10240": {
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": {
+            "target": "Package",
+            "version": "5.2.3"
+          }
+        }
+      }
     },
     "runtimes": {
       "win10-arm": {

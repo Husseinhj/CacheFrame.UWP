@@ -1,0 +1,2 @@
+C:\Users\HusseinHJ\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP.Sample\CacheFrame.UWP.Sample.csproj;x86
+C:\Users\HusseinHJ\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\CacheFrame.UWP.csproj;neutral
