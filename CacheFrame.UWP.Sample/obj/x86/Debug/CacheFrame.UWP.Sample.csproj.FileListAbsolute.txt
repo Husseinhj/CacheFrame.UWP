@@ -458,3 +458,6 @@ E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP.Sample\obj\x86\Debug\qualifie
 E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP.Sample\obj\x86\Debug\qualifiers.txt.intermediate
 E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP.Sample\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP.Sample\obj\x86\Debug\ProjectArchitectures.txt
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP.Sample\obj\x86\Debug\package.map.txt
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP.Sample\obj\x86\Debug\_pkginfo.txt
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP.Sample\obj\x86\Debug\Stripped\CacheFrame.UWP.Sample.pdb

@@ -2,16 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>CacheFrame.UWP</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>CacheFrame.UWP</title>
-	<projectUrl>https://github.com/Husseinhj/CacheFrame.UWP</projectUrl>
-	<iconUrl>http://uupload.ir/files/nmb0_square-museum-art-frame_318-44822.png</iconUrl>
     <authors>Hussein.Juybari</authors>
     <owners>Hussein Habbibi Juybari</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/Husseinhj/CacheFrame.UWP</projectUrl>
+    <iconUrl>http://uupload.ir/files/nmb0_square-museum-art-frame_318-44822.png</iconUrl>
     <description>This frame library was inheritance by Frame and show your pages, new for first time and you can see your page again from cache in RAM. iOS tabbar cache your page, so if want to keep your page and render page for first time you can use this.</description>
     <copyright>Copyright ©  2017</copyright>
-	<tags>CacheFrame, Frame , CachePage , UWP , Control</tags>
+    <tags>CacheFrame, Frame , CachePage UWP Control</tags>
     <dependencies />
   </metadata>
 </package>
