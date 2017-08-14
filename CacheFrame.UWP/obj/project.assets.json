@@ -22010,15 +22010,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HusseinHJ\\.nuget\\packages\\": {}
+    "C:\\Users\\ADP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP\\CacheFrame.UWP.csproj",
+      "projectUniqueName": "E:\\Projects\\Git\\Repo\\CacheFrame.UWP\\CacheFrame.UWP\\CacheFrame.UWP.csproj",
       "projectName": "CacheFrame.UWP",
-      "projectPath": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP\\CacheFrame.UWP.csproj",
-      "outputPath": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP\\obj\\",
+      "projectPath": "E:\\Projects\\Git\\Repo\\CacheFrame.UWP\\CacheFrame.UWP\\CacheFrame.UWP.csproj",
+      "outputPath": "E:\\Projects\\Git\\Repo\\CacheFrame.UWP\\CacheFrame.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "uap10.0.10240"

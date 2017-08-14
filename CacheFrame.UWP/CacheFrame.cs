@@ -121,44 +121,17 @@ namespace CacheFrame.UWP
 
                 wasFounded = frame.BackStack.Any(entry => entry.SourcePageType == pageType);
                 lastPages = frame.BackStack.ToList();
-                var dupPages = frame.BackStack.GroupBy(s => s)
-                    .SelectMany(grp => grp.Skip(1));
 
                 if (wasFounded)
                 {
                     #region Remove all page except myPage
-
-                    bool flagMyPageWasDup = false;
+                    
                     foreach (var pageStackEntry in lastPages)
                     {
-                        if (flagMyPageWasDup || pageStackEntry.SourcePageType != pageType)
+                        if (pageStackEntry.SourcePageType != pageType)
                         {
                             frame.BackStack.Remove(pageStackEntry);
                             Debug.WriteLine("Page '{0}' was remove temporary from lastPages.", pageStackEntry.SourcePageType);
-                        }
-
-                        if (pageStackEntry.SourcePageType == pageType)
-                        {
-                            flagMyPageWasDup = true;
-                        }
-                    }
-
-                    #endregion
-
-                    #region Remove duplicate pages
-
-                    flagMyPageWasDup = false;
-                    foreach (var pageStackEntry in dupPages)
-                    {
-                        if (flagMyPageWasDup || pageStackEntry.SourcePageType != pageType)
-                        {
-                            frame.BackStack.Remove(pageStackEntry);
-                            Debug.WriteLine("Page '{0}' was remove temporary from dupPages.", pageStackEntry.SourcePageType);
-                        }
-
-                        if (pageStackEntry.SourcePageType == pageType)
-                        {
-                            flagMyPageWasDup = true;
                         }
                     }
 

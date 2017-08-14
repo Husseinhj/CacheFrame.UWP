@@ -2,6 +2,15 @@
   "version": 2,
   "targets": {
     "UAP,Version=v10.0.10240": {
+      "CacheFrame.UWP/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -2168,16 +2177,18 @@
             "rid": "aot"
           }
         }
-      },
-      "CacheFrame.UWP/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
-        }
       }
     },
     "UAP,Version=v10.0.10240/win10-arm": {
+      "CacheFrame.UWP/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -4427,16 +4438,18 @@
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "CacheFrame.UWP/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
-        }
       }
     },
     "UAP,Version=v10.0.10240/win10-arm-aot": {
+      "CacheFrame.UWP/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -6725,16 +6738,18 @@
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "CacheFrame.UWP/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
-        }
       }
     },
     "UAP,Version=v10.0.10240/win10-x64": {
+      "CacheFrame.UWP/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -8993,16 +9008,18 @@
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "CacheFrame.UWP/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
-        }
       }
     },
     "UAP,Version=v10.0.10240/win10-x64-aot": {
+      "CacheFrame.UWP/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -11300,16 +11317,18 @@
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "CacheFrame.UWP/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
-        }
       }
     },
     "UAP,Version=v10.0.10240/win10-x86": {
+      "CacheFrame.UWP/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -13568,16 +13587,18 @@
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "CacheFrame.UWP/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
-        }
       }
     },
     "UAP,Version=v10.0.10240/win10-x86-aot": {
+      "CacheFrame.UWP/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/netcore50/CacheFrame.UWP.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -15875,17 +15896,20 @@
         "runtime": {
           "runtimes/aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "CacheFrame.UWP/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
-        }
       }
     }
   },
   "libraries": {
+    "CacheFrame.UWP/1.0.0": {
+      "sha512": "1S63Algc68k79kFvXnaY0YB41cLaVypqMmGh7IPge2brMq7e9K2KIFT8ciy5Ouv5FXbCpm8UI6+/T/Qo6o8Mpw==",
+      "type": "package",
+      "path": "cacheframe.uwp/1.0.0",
+      "files": [
+        "cacheframe.uwp.1.0.0.nupkg.sha512",
+        "cacheframe.uwp.nuspec",
+        "lib/netcore50/CacheFrame.UWP.dll"
+      ]
+    },
     "Microsoft.CSharp/4.0.1": {
       "sha512": "17h8b5mXa87XYKrrVqdgZ38JefSUqLChUQpXgSnpzsM0nDOhE40FTeNWOJ/YmySGV6tG6T8+hjz6vxbknHJr6A==",
       "type": "package",
@@ -22051,11 +22075,6 @@
         "system.xml.xmlserializer.4.0.11.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
-    },
-    "CacheFrame.UWP/1.0.0": {
-      "type": "project",
-      "path": "../CacheFrame.UWP/CacheFrame.UWP.csproj",
-      "msbuildProject": "../CacheFrame.UWP/CacheFrame.UWP.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -22065,30 +22084,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HusseinHJ\\.nuget\\packages\\": {}
+    "C:\\Users\\ADP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\CacheFrame.UWP.Sample.csproj",
+      "projectUniqueName": "E:\\Projects\\Git\\Repo\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\CacheFrame.UWP.Sample.csproj",
       "projectName": "CacheFrame.UWP.Sample",
-      "projectPath": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\CacheFrame.UWP.Sample.csproj",
-      "outputPath": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\obj\\",
+      "projectPath": "E:\\Projects\\Git\\Repo\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\CacheFrame.UWP.Sample.csproj",
+      "outputPath": "E:\\Projects\\Git\\Repo\\CacheFrame.UWP\\CacheFrame.UWP.Sample\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "uap10.0.10240"
       ],
       "frameworks": {
         "uap10.0.10240": {
-          "projectReferences": {
-            "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP\\CacheFrame.UWP.csproj": {
-              "projectPath": "C:\\Users\\HusseinHJ\\documents\\visual studio 2017\\Projects\\CacheFrame.UWP\\CacheFrame.UWP\\CacheFrame.UWP.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },
     "dependencies": {
+      "CacheFrame.UWP": {
+        "target": "Package",
+        "version": "1.0.0"
+      },
       "Microsoft.NETCore.UniversalWindowsPlatform": {
         "target": "Package",
         "version": "5.2.3"
@@ -22097,6 +22116,10 @@
     "frameworks": {
       "uap10.0.10240": {
         "dependencies": {
+          "CacheFrame.UWP": {
+            "target": "Package",
+            "version": "1.0.0"
+          },
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",
             "version": "5.2.3"

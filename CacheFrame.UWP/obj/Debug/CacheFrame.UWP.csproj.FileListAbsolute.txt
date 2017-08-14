@@ -15,3 +15,20 @@ c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFra
 c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\qualifiers.txt.intermediate
 c:\users\husseinhj\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\HusseinHJ\documents\visual studio 2017\Projects\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\CacheFrame.UWP.csprojResolveAssemblyReference.cache
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\bin\Debug\CacheFrame.UWP.dll
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\bin\Debug\CacheFrame.UWP.pdb
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\bin\Debug\CacheFrame.UWP.pri
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\CacheFrame.UWP.csprojResolveAssemblyReference.cache
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\CacheFrame.UWP.dll
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\CacheFrame.UWP.pdb
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\priconfig.xml
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\priconfig.xml.intermediate
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\layout.resfiles
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\layout.resfiles.intermediate
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\resources.resfiles
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\resources.resfiles.intermediate
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\pri.resfiles
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\pri.resfiles.intermediate
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\qualifiers.txt
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\qualifiers.txt.intermediate
+E:\Projects\Git\Repo\CacheFrame.UWP\CacheFrame.UWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
